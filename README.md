@@ -1,2 +1,2 @@
-# Netiflix---Clone
+# Netflix---Clone
 NetFlix
