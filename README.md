@@ -1,2 +1,2 @@
-# Livraria do Val clonada na Netflix
+# Livraria do Val clonada da Netflix
 NetFlix
