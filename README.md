@@ -1,2 +1,2 @@
-# Netflix---Clone
-NetFlix
+# Livraria do Val  - clonada da Netflix
+Os arquivos estão na Master
