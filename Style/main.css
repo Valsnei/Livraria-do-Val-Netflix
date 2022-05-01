@@ -1,6 +1,6 @@
 
 :root{
-    --vermelho: #E50914;
+    --azul: #7d81f5;
     --preta:  #141414;
 }
 
@@ -26,7 +26,7 @@ header .container{
 
 header .logo{
     margin-left: 5px;
-    color: var(--vermelho);
+    color: var(--azul);
     font-family: "Arial Black" 'Times New Roman', Times;
     font-size: 40px;
 }
@@ -45,26 +45,25 @@ header nav a:hover{
  /*Filme principal*/
  .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.30),rgba(0,0,0,.30)), url('../img/L-capa.png');
     height:400px;
     background-size:cover;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
-    
+    align-items: flex-start;  
  }
 
  .filme-principal .descricao{
      margin: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 
 
  }
 
  .filme-principal .titulo{
-    margin-top: 15%%;
+    margin-top: 10%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
     
@@ -72,7 +71,7 @@ header nav a:hover{
  }
 
  .botao{
-    background-color: rgba(0,0,0,.50);
+    background-color: rgba(96, 95, 95, 0.5);
     border: none;
     color: white;
     padding:15px 30px;
@@ -94,7 +93,7 @@ header nav a:hover{
 }
 
 .container{
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 .filme-principal .container{
@@ -102,10 +101,10 @@ header nav a:hover{
 }
   
 .box-filme{
-height: 100%;
-width: 100%;
-display: block;
-cursor: pointer;
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer;
 
 }
 
